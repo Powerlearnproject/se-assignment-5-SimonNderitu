@@ -90,9 +90,13 @@ Windows: Ctrl + Shift + P
 Common Tasks Performed Using the Command Palette:
 
 Ctrl+P enables you to navigate to any file or symbol by typing its name
+
 Ctrl+Tab cycles you through the last set of files opened
+
 Ctrl+Shift+P brings you directly to the editor commands
+
 Ctrl+Shift+O enables you to navigate to a specific symbol in a file
+
 Ctrl+G enables you to navigate to a specific line in a file
 
 5. Extensions in VS Code:
@@ -135,11 +139,16 @@ Alternatively, click the three dots as shown in the image bellow and select new 
 Advantages of Using the Integrated Terminal are numerous , they include:
 
 Convenience: The integrated terminal is built into VS Code, making it accessible within your development environment.
+
 Integration: The terminal seamlessly integrates with VS Code, allowing you to debug from within your code editor and view output in real time.
+
 Customization: You can customize the terminal appearance, settings, and keyboard shortcuts to match your preferences.
+
 Cross-platform support: The integrated terminal is available in VS Code on Windows, macOS, and Linux.
 Auto-completion and IntelliSense: The terminal supports auto-completion and IntelliSense for commands and arguments.
+
 Git integration: The terminal provides easy access to Git commands, making it convenient to perform Git operations.
+
 Task management: The terminal can be used to run tasks and monitor their progress, providing a convenient way to manage your development workflow.
 
 7. File and Folder Management:
@@ -186,14 +195,23 @@ Steps to set up and start debugging in VS Code:
    2.	Create a launch configuration: Create a launch configuration file (.vscode/launch.json) that specifies the debugging settings for your program. Configure the type of program (e.g., Node.js, Python), the entry point, and any additional arguments.
    3.	Set breakpoints: Add breakpoints to your code by clicking on the gutter areas next to the lines where you want the debugger to pause execution.
    4.	Start debugging: Open the Debug sidebar (View > Debug), choose the desired launch configuration, and click the "Start Debugging" button.
+
 Key Debugging Features in VS Code:
+
 Breakpoints: Pause execution at specific lines of code.
+
 Watch Expressions: Monitor the values of variables during debugging.
+
 Call Stack: Inspect the sequence of function calls that led to the current execution point.
+
 Variables Viewer: Inspect the values of variables and objects at runtime.
+
 Console Output: View debug messages and program output in the Debug Console.
+
 Step Through: Execute code line by line, stepping into or over function calls.
+
 Resume: Continue program execution from the current breakpoint.
+
 Restart: Restart the debugging session and reload the program.
 
 10. Using Source Control:
