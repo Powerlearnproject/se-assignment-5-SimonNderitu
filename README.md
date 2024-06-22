@@ -19,8 +19,11 @@ Answer the following questions based on your understanding of the installation a
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
+
 Initial Configurations and Settings for VS Code can include the following:
+
 General Settings:
+
 Theme: Choose a high-contrast theme to improve readability or choose the theme that is appealing to you.
 Auto Save: Enable "Auto Save" to avoid data loss.
 File Encoding: Ensure the correct file encoding is set to prevent character issues.
